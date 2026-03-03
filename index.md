@@ -4,12 +4,11 @@ title: Kyle DeLong Portfolio
 
 ## Biography
 I have a good sense of humour:
-```python
-# This is a Python code block
-def say_hello(name):
-    print(f"Hello, {name}!")
 
-say_hello("World but also everyone in the universe.....")
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 ```
 
 
