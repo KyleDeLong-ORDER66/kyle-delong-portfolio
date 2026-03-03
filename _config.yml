@@ -19,7 +19,8 @@ bio: ddd
 image: /assets/img/profile-picture-sunset.jpg
 email: "delon1kt@iastate.edu"
 github_profile:
-department: "Agronomy"
+department: "Department of Agronomy"
+departmenturl: "https://www.agron.iastate.edu/"
 orcid: 
 cv: 
 
