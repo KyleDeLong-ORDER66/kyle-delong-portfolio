@@ -4,7 +4,13 @@ title: Kyle DeLong Portfolio
 
 ## Biography
 I have a good sense of humour:
-> myvar = "Hello World"
+```python
+# This is a Python code block
+def say_hello(name):
+    print(f"Hello, {name}!")
+
+say_hello("World")
+```
 
 
 ## Workshop Taught
