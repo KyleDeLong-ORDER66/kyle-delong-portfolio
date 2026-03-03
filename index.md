@@ -4,9 +4,7 @@ title: Kyle DeLong Portfolio
 
 ## Biography
 I have a good sense of humour:
-'''Python
-myvar = "Hello World"
-'''
+> myvar = "Hello World"
 
 
 ## Workshop Taught
