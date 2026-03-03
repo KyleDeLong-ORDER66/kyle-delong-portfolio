@@ -1,5 +1,5 @@
 ---
-title: Teaching
-nav: Teaching
-nav_order: 3
+title: Teaching Portfolio
+nav: Teaching Courses
+nav_order: 4
 ---

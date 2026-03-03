@@ -1,6 +1,19 @@
 ---
-title: Academic Portfolio Template
+title: Kyle DeLong Portfolio
 ---
+
+## Biography
+dd
+
+## Workshop Taught
+dd
+
+### Education
+
+*CMU
+*ISU
+
+---------
 
 Write pages in Markdown.
 
