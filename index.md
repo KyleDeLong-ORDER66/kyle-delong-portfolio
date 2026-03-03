@@ -3,15 +3,19 @@ title: Kyle DeLong Portfolio
 ---
 
 ## Biography
-dd
+I have a good sense of humour:
+'''Python
+myvar = "Hello World"
+'''
+
 
 ## Workshop Taught
 dd
 
 ### Education
 
-*CMU
-*ISU
+* CMU
+* ISU
 
 ---------
 
