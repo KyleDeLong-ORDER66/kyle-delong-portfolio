@@ -10,18 +10,18 @@
 # SITE SETTINGS
 #
 title: Academic Portfolio
-description: "a basic personal or professional portfolio template for Jekyll with GitHub Pages"
+description: "a basic personal or professional portfolio template for Jekyll with GitHub Pages" #The quotations are to let you have special punctuations marks
 year: 2026
 author: Iowa State University
-bio:
+bio: ddd
 
 # PERSONAL URLS
 image: /assets/img/emoji-cool.png
-email:
+email: "delon1kt@iastate.edu"
 github_profile:
-department:
-orcid:
-cv:
+department: "Agronomy"
+orcid: 
+cv: 
 
 # PAGE METADATA SETTINGS [optional!]
 # organization-name: 
